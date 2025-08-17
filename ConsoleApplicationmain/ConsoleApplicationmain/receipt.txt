@@ -1,0 +1,54 @@
+*********************************************
+|            CUSTOMER INVOICE                  |
+*********************************************
+     E-COMMERCE SHOPPING MANAGEMENT SYSTEM
+
+Date and Time is            : Tue Jul  2 09:40:01 2024
+
+Customer Name               : talha
+Customer Gender             : male
+Customer Contact number     : 03326313538
+Customer Email              : talhamughal3579@gmail.com
+Shipping Address            : ,,,.
+
+     PRODUCT-ID     PRODUCT-NAME      PRODUCT-PRICE
+        11               Shirt               130.5
+
+Total Item     :1
+Total Cost       :130.5 RS
+
+Card payment  :130.5
+Card Digits   : *************
+
+
+********************************************
+
+Exchange and refund may be applied within 3 days with original tax invoice.
+       Thanks FOR YOUR PATIENCE
+*********************************************
+|            CUSTOMER INVOICE                  |
+*********************************************
+     E-COMMERCE SHOPPING MANAGEMENT SYSTEM
+
+Date and Time is            : Tue Jul  2 09:45:58 2024
+
+Customer Name               : talha
+Customer Gender             : male
+Customer Contact number     : 03326313538
+Customer Email              : talhamughal3579@gmail.com
+Shipping Address            : ,,,.
+
+     PRODUCT-ID     PRODUCT-NAME      PRODUCT-PRICE
+        11               Shirt               130.5
+
+Total Item     :1
+Total Cost       :130.5 RS
+
+Card payment  :130.5
+Card Digits   : *************
+
+
+********************************************
+
+Exchange and refund may be applied within 3 days with original tax invoice.
+       Thanks FOR YOUR PATIENCE

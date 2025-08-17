@@ -1,0 +1,4 @@
+﻿  ConsoleApplicationmain.cpp
+C:\Users\TOSHIBA\source\repos\ConsoleApplicationmain\ConsoleApplicationmain\ConsoleApplicationmain.cpp(803,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TOSHIBA\source\repos\ConsoleApplicationmain\ConsoleApplicationmain\ConsoleApplicationmain.cpp(990,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplicationmain.vcxproj -> C:\Users\TOSHIBA\source\repos\ConsoleApplicationmain\x64\Debug\ConsoleApplicationmain.exe
